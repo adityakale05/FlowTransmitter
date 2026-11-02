@@ -1,0 +1,9 @@
+../Src/LDU.c:20:6:LCD_Init	24	static
+../Src/LDU.c:46:6:LCD_SetCursor	16	static
+../Src/LDU.c:50:6:print	16	static
+../Src/LDU.c:56:6:print_float	32	static
+../Src/LDU.c:73:13:delay	16	static,ignoring_inline_asm
+../Src/LDU.c:77:13:I2C1_Init	8	static
+../Src/LDU.c:102:13:I2C1_Wait	24	static
+../Src/LDU.c:111:13:I2C1_Send	32	static
+../Src/LDU.c:143:13:LCD_Send	24	static

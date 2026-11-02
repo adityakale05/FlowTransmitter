@@ -1,0 +1,3 @@
+../Src/DAU.c:10:6:DAU_Init	4	static,ignoring_inline_asm
+../Src/DAU.c:45:6:DAU_Get_Flow_Metrics	16	static
+../Src/DAU.c:52:6:TIM2_IRQHandler	8	static

@@ -1,0 +1,6 @@
+../Src/UART.c:9:6:UART_Init	1
+../Src/UART.c:21:6:UART_Send	2
+../Src/UART.c:26:6:UART_Print	2
+../Src/UART.c:32:6:UART_PrintInt	2
+../Src/UART.c:42:6:UART_PrintFloat	11
+../Src/UART.c:78:13:PrintUInt	4
